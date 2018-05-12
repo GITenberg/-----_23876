@@ -1,0 +1,33 @@
+_repo: '-----_23876'
+_version: 0.1.0
+alternative_title: Xu Xiake you ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Xu, Hongzu
+    aliases:
+    - 徐弘祖
+    - Xu, Xiake
+    birthdate: 1586
+    deathdate: 1641
+    gutenberg_agent_id: '26105'
+    url: http://www.gutenberg.org/2009/agents/26105
+    wikipedia: http://en.wikipedia.org/wiki/Xu_Xiake
+description: ''
+gutenberg_issued: '2007-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23876'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Description and travel'
+- !lcsh 'Xu, Hongzu, 1586-1641'
+- !lcc 'DS'
+- !lcsh 'China -- Historical geography'
+title: 徐霞客遊記
+url: http://www.gutenberg.org/ebooks/23876
